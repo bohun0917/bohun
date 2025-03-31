@@ -9,6 +9,9 @@ redirect_from:
 test
 
 <a href="hmoework2-1.html" target="_blank">Hmoework 2-1 </a>
+<a href="homework2-2.html" target="_blank">Homework 2-2 </a>
+<a href="homework2-3.html" target="_blank">Homework 2-3 </a>
+<a href="homework2-4.html" target="_blank">Homework 2-4 </a>
 
 Getting started
 ======
