@@ -8,10 +8,10 @@ redirect_from:
 ---
 test
 
-[Hmoework 2-1](homework2-1-v2.html)
-[Hmoework 2-2](homework2-2-v2.html)
-[Hmoework 2-3](homework2-3-v2.html)
-[Hmoework 2-4](homework2-4-v2.html)
+[Homework 2-1](homework2-1-v2.html)
+[Homework 2-2](homework2-2-v2.html)
+[Homework 2-3](homework2-3-v2.html)
+[Homework 2-4](homework2-4-v2.html)
 [css.demo](css.deom-v2.html)
 
 
