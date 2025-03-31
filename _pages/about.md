@@ -8,7 +8,7 @@ redirect_from:
 ---
 test
 
-<a href="homework2-1.html" target="_blank">Homework 2-1 보기</a>
+<a href="hmoework2-1.html" target="_blank">Hmoework 2-1 </a>
 
 Getting started
 ======
