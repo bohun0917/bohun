@@ -15,17 +15,11 @@ test
 
 [css.demo](css.deom-v2.html)
 
-[Homework 3-1](homework3-1.php)  
-![Homework 3-1](/images/homework3-1.jpg)
 
-[Homework 3-2](homework3-2.php)  
-![Homework 3-2](/images/homework3-2.jpg)
-
-[Homework 3-3](homework3-3.php)  
-![Homework 3-3](/images/homework3-3.jpg)
-
-[Homework 3-4](homework3-4.php)  
-![Homework 3-4](/images/homework3-4.jpg)
+[Homework 3-1](https://bohun0917.github.io/images/homework3-1.jpg)
+[Homework 3-2](https://bohun0917.github.io/images/homework3-2.jpg)
+[Homework 3-3](https://bohun0917.github.io/images/homework3-3.jpg)
+[Homework 3-4](https://bohun0917.github.io/images/homework3-4.jpg)
 
 
 Getting started
