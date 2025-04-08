@@ -15,10 +15,18 @@ test
 
 [css.demo](css.deom-v2.html)
 
-![Homework 3-1](/images/homework3-1.png)
-![Homework 3-2](/images/homework3-2.png)
-![Homework 3-3](/images/homework3-3.png)
-![Homework 3-4](/images/homework3-4.png)
+[Homework 3-1 정답](homework3-1.php)
+![Homework 3-1 이미지](/images/homework3-1.png)
+
+[Homework 3-2 정답](homework3-2.php)
+![Homework 3-2 이미지](/images/homework3-2.png)
+
+[Homework 3-3 정답](formcgi.php)
+![Homework 3-3 이미지](/images/homework3-3.png)
+
+[Homework 3-4 정답](shapes.php)
+![Homework 3-4 이미지](/images/homework3-4.png)
+
 
 
 
